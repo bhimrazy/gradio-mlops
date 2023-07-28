@@ -1,3 +1,1 @@
 # gradio-mlops
-
-sample
